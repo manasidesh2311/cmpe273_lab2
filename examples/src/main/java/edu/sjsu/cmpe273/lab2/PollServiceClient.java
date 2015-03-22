@@ -9,7 +9,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * Created by anupkher on 3/18/15.
+ * Created by manasideshpande on 3/18/15.
  */
 public class PollServiceClient {
     private static final Logger logger = Logger.getLogger(PollServiceClient.class.getName());
